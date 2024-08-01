@@ -1,0 +1,6 @@
+.tab-active {
+    background: transparent !important;
+    border-bottom: 0 !important;
+    color: #FF5722 !important;
+    font-weight: bold !important;
+}
