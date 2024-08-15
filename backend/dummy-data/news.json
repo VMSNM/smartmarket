@@ -1,0 +1,2321 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "ROSEN, LEADING TRIAL ATTORNEYS, Encourages Lincoln National Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - LNC - Lincoln National  ( NYSE:LNC ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38976205/rosen-leading-trial-attorneys-encourages-lincoln-national-corporation-investors-to-secure-counsel-",
+            "time_published": "20240522T223358",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Lincoln National Corporation LNC between November 4, 2020 and November 2, 2022, both dates inclusive ( the \"Class Period\" ) , of the important June 24, 2024 ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.124818,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LNC",
+                    "relevance_score": "0.300946",
+                    "ticker_sentiment_score": "-0.027503",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.061631",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Equity LifeStyle Properties, Inc. Investors to Inquire About Securities Class Action Investigation - ELS - Equity Lifestyle Props  ( NYSE:ELS ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38976132/rosen-a-leading-investor-rights-law-firm-encourages-equity-lifestyle-properties-inc-investors-to-i",
+            "time_published": "20240522T222900",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of Equity LifeStyle Properties, Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99676"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.165259,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ELS",
+                    "relevance_score": "0.444734",
+                    "ticker_sentiment_score": "0.059487",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.067158",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Evolv - Evolv Technologies  ( NASDAQ:EVLV ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38975957/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-evolv",
+            "time_published": "20240522T220800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against Evolv Technologies Holdings, Inc. f/k/a NewHold Investment Corp. ( \"Evolv\" or the \"Company\" ) EVLV and reminds investors of the May 24, 2024 ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99793"
+                }
+            ],
+            "overall_sentiment_score": -0.058674,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.043342",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EVLV",
+                    "relevance_score": "0.214177",
+                    "ticker_sentiment_score": "0.100278",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of bluebird - bluebird bio  ( NASDAQ:BLUE ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38975861/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-bluebird",
+            "time_published": "20240522T215600",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against bluebird bio, Inc. ( \"Blue\" or the \"Company\" ) BLUE and reminds investors of the May 28, 2024 deadline to seek the role of lead plaintiff in a ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                }
+            ],
+            "overall_sentiment_score": 0.102809,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLUE",
+                    "relevance_score": "0.378572",
+                    "ticker_sentiment_score": "-0.048234",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.049221",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Richmond Jazz and Music Festival Returns August 9th, 10th and 11th with Ludacris, Fantasia, Bob James, and Artist in Residence Wyclef Jean.",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38975730/richmond-jazz-and-music-festival-returns-august-9th-10th-and-11th-with-ludacris-fantasia-bob-james",
+            "time_published": "20240522T214600",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "RICHMOND, Va., May 22, 2024 /PRNewswire/ -- This August 9th, 10th and 11th, the 2024 Richmond Jazz and Music Festival invites you to immerse yourself in \"Sounds & Colors\" at historic Maymont.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.48859,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "D",
+                    "relevance_score": "0.055492",
+                    "ticker_sentiment_score": "0.387055",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.055492",
+                    "ticker_sentiment_score": "0.18693",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MO",
+                    "relevance_score": "0.055492",
+                    "ticker_sentiment_score": "0.387055",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Global Cord - Global Cord Blood  ( OTC:CORBF ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38975622/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-global-cord",
+            "time_published": "20240522T213900",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against Global Cord Blood Corporation ( \"Global Cord\" or the \"Company\" ) COCORBF and reminds investors of the June 24, 2024 deadline to seek the role of ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                }
+            ],
+            "overall_sentiment_score": 0.154687,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.040011",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Luna Innovations - Luna Innovations  ( NASDAQ:LUNA ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38975580/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-luna-innovations",
+            "time_published": "20240522T213500",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against Luna Innovations Incorporated ( \"Luna\" or the \"Company\" ) LUNA and reminds investors of the May 31, 2024 deadline to seek the role of lead ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                }
+            ],
+            "overall_sentiment_score": 0.079226,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.051999",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LUNA",
+                    "relevance_score": "0.442767",
+                    "ticker_sentiment_score": "-0.091942",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "If You Invested $100 In This Stock 10 Years Ago, You Would Have $700 Today - Meta Platforms  ( NASDAQ:META ) ",
+            "url": "https://www.benzinga.com/insights/news/24/05/38975534/if-you-invested-100-in-this-stock-10-years-ago-you-would-have-700-today",
+            "time_published": "20240522T213125",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Meta Platforms META has outperformed the market over the past 10 years by 11.4% on an annualized basis producing an average annual return of 22.11%. Currently, Meta Platforms has a market capitalization of $1.19 trillion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/valuestock_image_3.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.238974,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.9545",
+                    "ticker_sentiment_score": "0.384186",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "SHAREHOLDER ALERT Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Checkpoint - Checkpoint Therapeutics  ( NASDAQ:CKPT ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38975257/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-checkpoint",
+            "time_published": "20240522T211900",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against Checkpoint Therapeutics, Inc. ( \"Checkpoint\" or the \"Company\" ) CKPT and reminds investors of the June 4, 2024 deadline to seek the role of lead ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.121942,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.063091",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CKPT",
+                    "relevance_score": "0.307731",
+                    "ticker_sentiment_score": "0.138363",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Ocugen - Ocugen  ( NASDAQ:OCGN ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38975185/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-ocugen",
+            "time_published": "20240522T211600",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against Ocugen, Inc. ( \"Ocugen\" or the \"Company\" ) OCGN and reminds investors of the June 10, 2024 deadline to seek the role of lead plaintiff in a federal ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.112427,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.057767",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OCGN",
+                    "relevance_score": "0.531326",
+                    "ticker_sentiment_score": "-0.043288",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of GoodRx - GoodRx Holdings  ( NASDAQ:GDRX ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38974458/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-goodrx",
+            "time_published": "20240522T204600",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against GoodRx Holdings, Inc. ( \"GoodRx\" or the \"Company\" ) GDRX and reminds investors of the June 21, 2024 deadline to seek the role of lead plaintiff in ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.905476"
+                }
+            ],
+            "overall_sentiment_score": 0.145491,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.050786",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GDRX",
+                    "relevance_score": "0.592344",
+                    "ticker_sentiment_score": "0.106236",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, A GLOBALLY RESPECTED LAW FIRM, Encourages Compass Minerals International, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action Commenced by the Firm - CMP - Compass Minerals Intl  ( NYSE:CMP ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38974339/rosen-a-globally-respected-law-firm-encourages-compass-minerals-international-inc-investors-to-sec",
+            "time_published": "20240522T204300",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of Compass Minerals International, Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.714479"
+                }
+            ],
+            "overall_sentiment_score": 0.146538,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.051663",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMP",
+                    "relevance_score": "0.302553",
+                    "ticker_sentiment_score": "-0.044171",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Sysco Defines Plans at 2024 Investor Day to Improve Core Performance, Advance Recipe for Growth Strategy, Increase Shareholder Value",
+            "url": "https://www.globenewswire.com/news-release/2024/05/22/2886878/2867/en/Sysco-Defines-Plans-at-2024-Investor-Day-to-Improve-Core-Performance-Advance-Recipe-for-Growth-Strategy-Increase-Shareholder-Value.html",
+            "time_published": "20240522T203000",
+            "authors": [
+                "Sysco Corporation"
+            ],
+            "summary": "Company highlights the strength of its industry-leading position and introduces three-year growth algorithm Company highlights the strength of its industry-leading position and introduces three-year growth algorithm ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/68d96458-4295-4da9-b3e4-cd5526e10f87",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.94762"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.354949,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.028321",
+                    "ticker_sentiment_score": "0.01721",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SYY",
+                    "relevance_score": "0.522333",
+                    "ticker_sentiment_score": "0.4931",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Cytokinetics and Royalty Pharma Announce Expanded Strategic Funding Collaboration Totaling Up to $575 Million to Support Commercial Launch of Aficamten and to Advance R&D Pipeline - Cytokinetics  ( NASDAQ:CYTK ) , Royalty Pharma  ( NASDAQ:RPRX ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38972645/cytokinetics-and-royalty-pharma-announce-expanded-strategic-funding-collaboration-totaling-up-to-5",
+            "time_published": "20240522T200000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SOUTH SAN FRANCISCO, Calif. and NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- Cytokinetics, Incorporated CYTK and Royalty Pharma plc RPRX today announced they have entered into a strategic funding collaboration providing capital to support the commercialization of aficamten and advance the ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.891286"
+                }
+            ],
+            "overall_sentiment_score": 0.131308,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.014648",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.014648",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CYTK",
+                    "relevance_score": "0.467527",
+                    "ticker_sentiment_score": "0.12276",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RPRX",
+                    "relevance_score": "0.145672",
+                    "ticker_sentiment_score": "0.052829",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ABBV",
+                    "relevance_score": "0.014648",
+                    "ticker_sentiment_score": "0.068146",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "As S&P 500 reaches fresh highs, experts say generative artificial intelligence will create new investment opportunities",
+            "url": "https://www.cnbc.com/2024/05/22/as-sp-500-reaches-new-highs-ai-will-create-investment-opportunities.html",
+            "time_published": "20240522T191309",
+            "authors": [
+                "Lorie Konish"
+            ],
+            "summary": "The S&P 500 had a record close on Tuesday. While some investors may fear a pullback, experts say early generative artificial intelligence adopters hold promise.",
+            "banner_image": "https://image.cnbcfm.com/api/v1/image/107407408-17143871852ED1-WEX-042924-Porter.jpg?v=1714387184&w=750&h=422&vtcrop=y",
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.319506,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.070935",
+                    "ticker_sentiment_score": "0.238154",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.070935",
+                    "ticker_sentiment_score": "0.238154",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.070935",
+                    "ticker_sentiment_score": "0.238154",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.070935",
+                    "ticker_sentiment_score": "0.238154",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.070935",
+                    "ticker_sentiment_score": "-0.027566",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Meta is considering new paid deals with media publishers for AI training data",
+            "url": "https://www.businessinsider.com/meta-deals-news-publishers-ai-training-data-2024-5",
+            "time_published": "20240522T191300",
+            "authors": [
+                "Kali Hays"
+            ],
+            "summary": "Meta Considering Deals With News Publishers for AI Training Data - Business Insider ...",
+            "banner_image": null,
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.056791,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.051441",
+                    "ticker_sentiment_score": "-0.027767",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NYT",
+                    "relevance_score": "0.051441",
+                    "ticker_sentiment_score": "-0.013",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.102668",
+                    "ticker_sentiment_score": "-0.044041",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.102668",
+                    "ticker_sentiment_score": "0.04429",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NWSAL",
+                    "relevance_score": "0.051441",
+                    "ticker_sentiment_score": "-0.027767",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Freddie Mac Prices Approximately $297.5 Million SLST Securitization",
+            "url": "https://www.globenewswire.com/news-release/2024/05/22/2886811/0/en/Freddie-Mac-Prices-Approximately-297-5-Million-SLST-Securitization.html",
+            "time_published": "20240522T190000",
+            "authors": [
+                "Freddie Mac"
+            ],
+            "summary": "MCLEAN, Va., May 22, 2024 ( GLOBE NEWSWIRE ) -- Freddie Mac ( OTCQB: FMCC ) today announced the pricing of the Freddie Mac Seasoned Loans Structured Transaction Trust ( SLST ) Series 2024-1, a securitization of approximately $297.5 million including both guaranteed senior and non-guaranteed ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/5db16bc5-4d31-4b84-b9f1-91e20149dc96",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999986"
+                }
+            ],
+            "overall_sentiment_score": 0.144035,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.049939",
+                    "ticker_sentiment_score": "0.106243",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.049939",
+                    "ticker_sentiment_score": "0.106243",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.049939",
+                    "ticker_sentiment_score": "0.17921",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.049939",
+                    "ticker_sentiment_score": "0.17921",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, A TRUSTED AND LEADING LAW FIRM, Encourages UnitedHealth Group Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - UNH - UnitedHealth Group  ( NYSE:UNH ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38971618/rosen-a-trusted-and-leading-law-firm-encourages-unitedhealth-group-inc-investors-to-secure-counsel",
+            "time_published": "20240522T184912",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of UnitedHealth Group Inc. UNH between March 14, 2022 and February 27, 2024, both dates inclusive ( the \"Class Period\" ) . of the important July 15, 2024 ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.938793"
+                }
+            ],
+            "overall_sentiment_score": 0.19839,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.060236",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.454511",
+                    "ticker_sentiment_score": "0.163039",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Superyacht captain's side hustle brings in $10,300 a month, takes 5 hours a week: This could 'be my retirement job'",
+            "url": "https://www.cnbc.com/2024/05/22/yacht-captain-kelly-gordon-how-im-building-my-social-media-side-hustle.html",
+            "time_published": "20240522T183117",
+            "authors": [
+                "Megan Sauer"
+            ],
+            "summary": "Superyacht captain Kelly Gordon combined her travel, boating and mental health experiences to start a side hustle that brings in six figures of annual revenue.",
+            "banner_image": "https://image.cnbcfm.com/api/v1/image/107414133-Unlocked-_Houseboat-_Toronto-_For_Carbon.jpg?v=1715619609&w=750&h=422&vtcrop=y",
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.187447,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.042953",
+                    "ticker_sentiment_score": "0.283383",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, SKILLED INVESOR COUNSEL, Encourages HireRight Holdings Corporation Investors to Secure Counsel Before Important June 3 Deadline in Securities Class Action - HRT - HireRight Holdings  ( NYSE:HRT ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38970715/rosen-skilled-invesor-counsel-encourages-hireright-holdings-corporation-investors-to-secure-counse",
+            "time_published": "20240522T180200",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) --",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.165061,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.060236",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HRT",
+                    "relevance_score": "0.403172",
+                    "ticker_sentiment_score": "0.076931",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, THE FIRST FILING FIRM, Encourages AXT, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - AXTI - AXT  ( NASDAQ:AXTI ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38970591/rosen-the-first-filing-firm-encourages-axt-inc-investors-to-secure-counsel-before-important-deadli",
+            "time_published": "20240522T175329",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of AXT, Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.141446,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.052801",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXTI",
+                    "relevance_score": "0.40375",
+                    "ticker_sentiment_score": "-0.082518",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Sonder Holdings Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - SOND - Sonder Holdings  ( NASDAQ:SOND ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38970465/rosen-a-leading-investor-rights-law-firm-encourages-sonder-holdings-inc-investors-to-secure-counse",
+            "time_published": "20240522T174505",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Sonder Holdings Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.714479"
+                }
+            ],
+            "overall_sentiment_score": 0.152446,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SOND",
+                    "relevance_score": "0.348452",
+                    "ticker_sentiment_score": "-0.025481",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.051441",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Sharecare, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - SHCR - Sharecare  ( NASDAQ:SHCR ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38970451/rosen-leading-investor-counsel-encourages-sharecare-inc-investors-to-secure-counsel-before-importa",
+            "time_published": "20240522T174426",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of Sharecare Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.714479"
+                }
+            ],
+            "overall_sentiment_score": 0.187516,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.056011",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SHCR",
+                    "relevance_score": "0.274628",
+                    "ticker_sentiment_score": "0.019312",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, A TOP RANKED LAW FIRM, Encourages Altimmune, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ALT - Altimmune  ( NASDAQ:ALT ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38970141/rosen-a-top-ranked-law-firm-encourages-altimmune-inc-investors-to-secure-counsel-before-important-",
+            "time_published": "20240522T172730",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Altimmune, Inc. ALT between December 1, 2023 and April 26, 2024, both dates inclusive ( the \"Class Period\" ) , of the important July 5, 2024 lead plaintiff ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.150201,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ALT",
+                    "relevance_score": "0.295867",
+                    "ticker_sentiment_score": "0.024735",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.060541",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, A TRUSTED AND LEADING LAW FIRM, Encourages QuidelOrtho Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - QDEL - QuidelOrtho  ( NASDAQ:QDEL ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38970124/rosen-a-trusted-and-leading-law-firm-encourages-quidelortho-corporation-investors-to-secure-counse",
+            "time_published": "20240522T172604",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of QuidelOrtho Corporation QDEL between February 18, 2022 and April 1, 2024, both dates inclusive ( the \"Class Period\" ) of the important June 11, 2024 lead ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.891286"
+                }
+            ],
+            "overall_sentiment_score": 0.157056,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.059636",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QDEL",
+                    "relevance_score": "0.291644",
+                    "ticker_sentiment_score": "0.039906",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Exclusive Screening of Highly Anticipated Film, \"The Firing Squad,\" in Houston on June 4th",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38970128/exclusive-screening-of-highly-anticipated-film-the-firing-squad-in-houston-on-june-4th",
+            "time_published": "20240522T172600",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 /PRNewswire/ -- On June 4, 2024, Epoch Studios is screening their first ever film, \"The Firing Squad,\" in Houston, TX. Select local faith and community leaders, as well as members of the media and other guests, will have the opportunity to preview the powerful story of ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.419342,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.105141",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.105141",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Exclusive Screening of Highly Anticipated Film, \"The Firing Squad,\" in San Antonio on June 4th",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38970024/exclusive-screening-of-highly-anticipated-film-the-firing-squad-in-san-antonio-on-june-4th",
+            "time_published": "20240522T172400",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "NEW YORK, May 22, 2024 /PRNewswire/ -- On June 4, 2024, Epoch Studios is screening their first ever film, \"The Firing Squad,\" in San Antonio, TX. Select local faith and community leaders, as well as members of the media and other guests, will have the opportunity to preview the powerful story of ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.419342,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.105141",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.105141",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "CHICKEN SALAD CHICK ADDING 16TH NORTH CAROLINA LOCATION WITH JACKSONVILLE OPENING ON JUNE 5TH",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38969870/chicken-salad-chick-adding-16th-north-carolina-location-with-jacksonville-opening-on-june-5th",
+            "time_published": "20240522T171300",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "-Fast casual concept celebrating grand opening with free chicken salad for a year- ATLANTA, May 22, 2024 /PRNewswire/ -- Chicken Salad Chick, the nation's only fast casual chicken salad restaurant concept, announced today its 16th North Carolina restaurant opening in Jacksonville at 1006 Hampton ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.35607,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.045054",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "[Latest] Global Flexible Plastic Packaging Market Size/Share Worth USD 293.7 Billion by 2033 at a 5.1% CAGR: Custom Market Insights  ( Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38968930/latest-global-flexible-plastic-packaging-market-sizeshare-worth-usd-293-7-billion-by-2033-at-a-5-1",
+            "time_published": "20240522T163000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Austin, TX, USA, May 22, 2024 ( GLOBE NEWSWIRE ) -- Custom Market Insights has published a new research report titled \"Flexible Plastic Packaging Market Size, Trends and Insights By Product Type ( Pouches, Bags & Sacks, Tubes, Sleeve Labels, Films & Wraps ) , By Packaging Type ( Vacuum Skin ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.341954,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.015072",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.015072",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SON",
+                    "relevance_score": "0.015072",
+                    "ticker_sentiment_score": "0.080644",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TCLAF",
+                    "relevance_score": "0.015072",
+                    "ticker_sentiment_score": "0.080644",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Make Or Break Moment For AI Frenzy Ahead - Nvidia Earnings, Hopes Dashed In U.K. - NVIDIA  ( NASDAQ:NVDA ) ",
+            "url": "https://www.benzinga.com/news/24/05/38968476/make-or-break-moment-for-ai-frenzy-ahead-nvidia-earnings-hopes-dashed-in-u-k",
+            "time_published": "20240522T160722",
+            "authors": [
+                "The Arora Report"
+            ],
+            "summary": "To gain an edge, this is what you need to know today. Please click here for an enlarged chart of NVIDIA Corp NVDA. A move of about 7% is expected in either direction. Before the prior set of earnings, on the average a move of 13% in either direction was expected.",
+            "banner_image": "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_31.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999819"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.769861"
+                }
+            ],
+            "overall_sentiment_score": 0.209877,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TGT",
+                    "relevance_score": "0.167032",
+                    "ticker_sentiment_score": "-0.013985",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "-0.203442",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "0.223105",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.248259",
+                    "ticker_sentiment_score": "0.164461",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "-0.203442",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "ADI",
+                    "relevance_score": "0.125679",
+                    "ticker_sentiment_score": "0.0819",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.042048",
+                    "ticker_sentiment_score": "0.098981",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.125679",
+                    "ticker_sentiment_score": "-0.011822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "0.205511",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.042048",
+                    "ticker_sentiment_score": "0.196836",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "G-P Named 'Undisputed Frontrunner' and Positioned Highest as the EOR Market Leader in the IEC Group Global EOR ... - Canada NewsWire",
+            "url": "https://www.newswire.ca/news-releases/g-p-named-undisputed-frontrunner-and-positioned-highest-as-the-eor-market-leader-in-the-iec-group-global-eor-study-2024-879293348.html",
+            "time_published": "20240522T160000",
+            "authors": [],
+            "summary": "G-P Named 'Undisputed Frontrunner' and Positioned Highest as the EOR Market Leader in the IEC Group Global EOR ... Canada ...",
+            "banner_image": null,
+            "source": "Canada Newswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.newswire.ca",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.296333,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.074926",
+                    "ticker_sentiment_score": "0.127292",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Groundworks® Continues International Expansion with Second Canada Location",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38968250/groundworks-continues-international-expansion-with-second-canada-location",
+            "time_published": "20240522T160000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "VIRGINIA BEACH, Va., May 22, 2024 ( GLOBE NEWSWIRE ) -- On the heels of its recent international expansion, Groundworks®, North America's leading foundation and water management solutions company, announces its second location in Canada. The company has acquired Edmonton, Alberta, based PolyLevel ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.442319,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "PracticeLink Recognized as One of the Best Places to Work in Healthcare in 2024",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38967571/practicelink-recognized-as-one-of-the-best-places-to-work-in-healthcare-in-2024",
+            "time_published": "20240522T153000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "ST. LOUIS and HINTON, West Virginia, May 22, 2024 ( GLOBE NEWSWIRE ) -- PracticeLink, the nation's most trusted physician recruitment resource and home of the most widely used online physician job board, is pleased to announce PracticeLink has been recognized as one of the Best Places to Work in ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.571356,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.091509",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Meta's AI Chief: AI Models Like ChatGPT Won't Reach Human Intelligence",
+            "url": "https://www.forbes.com/sites/roberthart/2024/05/22/metas-ai-chief-ai-models-like-chatgpt-wont-reach-human-intelligence/",
+            "time_published": "20240522T152934",
+            "authors": [
+                "Robert Hart"
+            ],
+            "summary": "The type of artificial intelligence that powers systems like OpenAI's ChatGPT and Google's Gemini will not be able to reach human levels of intelligence, Meta's AI chief Yann LeCun told the Financial Times in an interview published Wednesday, giving an insight into how the tech giant plans to ...",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/664e0eec52bcf58d39793849/0x0.jpg?format=jpg&crop=2934,1651,x0,y152,safe&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.185381,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.119235",
+                    "ticker_sentiment_score": "0.072292",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Chris Stapleton to launch exclusive SiriusXM channel",
+            "url": "https://www.newswire.ca/news-releases/chris-stapleton-to-launch-exclusive-siriusxm-channel-892805223.html",
+            "time_published": "20240522T152900",
+            "authors": [
+                "Sirius XM Canada Inc."
+            ],
+            "summary": "Chris Stapleton Radio, new year-round channel curated and presented by the 10-time GRAMMY winner, to launch tomorrow, May 23",
+            "banner_image": "https://mma.prnewswire.com/media/2419597/Sirius_XM_Canada_Inc__Chris_Stapleton_to_launch_exclusive_Sirius.jpg?p=facebook",
+            "source": "Canada Newswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.newswire.ca",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.30912,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.042953",
+                    "ticker_sentiment_score": "0.101777",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.042953",
+                    "ticker_sentiment_score": "0.101777",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SIRI",
+                    "relevance_score": "0.042953",
+                    "ticker_sentiment_score": "0.261292",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Chris Stapleton to launch exclusive SiriusXM channel",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38967565/chris-stapleton-to-launch-exclusive-siriusxm-channel",
+            "time_published": "20240522T152900",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "TORONTO, May 22, 2024 /CNW/ - SiriusXM Canada announced today that 10-time GRAMMY award winning singer-songwriter Chris Stapleton will launch an exclusive year-round SiriusXM channel, Chris Stapleton Radio, on Thursday, May 23 at 12:00 pm ET.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.309288,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.042271",
+                    "ticker_sentiment_score": "0.101591",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.042271",
+                    "ticker_sentiment_score": "0.101591",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Biden Says AI Companies 'Must Earn Our Trust,' Calls For 'Responsible Innovation' - Microsoft  ( NASDAQ:MSFT ) , Meta Platforms  ( NASDAQ:META ) ",
+            "url": "https://www.benzinga.com/government/24/05/38967295/biden-says-ai-companies-must-earn-our-trust-calls-for-responsible-innovation",
+            "time_published": "20240522T151958",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "President Joe Biden emphasized the transformative potential of artificial intelligence ( AI ) while stressing the importance of trust and responsibility in its development. What Happened: Biden took to X on Wednesday to commit to promoting safe and secure AI innovation.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/05/22/President-Joe-Biden_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.381615,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.269776",
+                    "ticker_sentiment_score": "0.303589",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.269776",
+                    "ticker_sentiment_score": "0.303589",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.269776",
+                    "ticker_sentiment_score": "0.303589",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Vishay Intertechnology AEC-Q102 Qualified IR Emitters Deliver 10 % Higher Radiant Intensity in 20 % Smaller Footprint - Vishay Intertechnology  ( NYSE:VSH ) ",
+            "url": "https://www.benzinga.com/pressreleases/24/05/g38966523/vishay-intertechnology-aec-q102-qualified-ir-emitters-deliver-10-higher-radiant-intensity-in-20-sm",
+            "time_published": "20240522T150000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "MALVERN, Pa., May 22, 2024 ( GLOBE NEWSWIRE ) -- Vishay Intertechnology, Inc. VSH today broadened its optoelectronics portfolio with the release of eight new AEC-Q102 qualified 850 nm and 940 nm high power infrared ( IR ) emitters that deliver best in class radiant intensity in 3.4 mm by 3.4 mm ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.264309,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.079656",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VSH",
+                    "relevance_score": "0.382925",
+                    "ticker_sentiment_score": "0.264846",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "UBS Arena Awarded TRUE Silver Certification by Green Business Certification Inc. for Zero Waste Efforts, Adds First Zero Waste Partner in Collins Building Services",
+            "url": "https://www.prnewswire.com/news-releases/ubs-arena-awarded-true-silver-certification-by-green-business-certification-inc-for-zero-waste-efforts-adds-first-zero-waste-partner-in-collins-building-services-302152619.html",
+            "time_published": "20240522T150000",
+            "authors": [
+                "UBS Arena"
+            ],
+            "summary": "UBS Arena Awarded TRUE Silver Certification by Green Business Certification Inc. for Zero Waste Efforts, Adds First ... PR ...",
+            "banner_image": "https://mma.prnewswire.com/media/1537184/ubs_arena_2000px_wide_Logo.jpg?p=facebook",
+            "source": "PR Newswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.prnewswire.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.384091,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.03478",
+                    "ticker_sentiment_score": "0.154684",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WM",
+                    "relevance_score": "0.069495",
+                    "ticker_sentiment_score": "0.151528",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "UBS Arena Awarded TRUE Silver Certification by Green Business Certification Inc. for Zero Waste Efforts, Adds First Zero Waste Partner in Collins Building Services",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38966552/ubs-arena-awarded-true-silver-certification-by-green-business-certification-inc-for-zero-waste-eff",
+            "time_published": "20240522T150000",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "Venue Becomes One of the First Sports & Entertainment Facilities to Earn Zero Waste Accreditation Photo Assets Available Here; Photo Credits: UBS Arena/Dennis DaSilva BELMONT PARK, N.Y., May 22, 2024 /PRNewswire/ -- UBS Arena has been awarded Silver certification under the TRUE ( Total Resource ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.391964,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.032425",
+                    "ticker_sentiment_score": "0.153364",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WM",
+                    "relevance_score": "0.064797",
+                    "ticker_sentiment_score": "0.146135",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Adobe's  ( ADBE )  New Move Aids Content Creation for Enterprises",
+            "url": "https://www.zacks.com/stock/news/2277361/adobes-adbe-new-move-aids-content-creation-for-enterprises",
+            "time_published": "20240522T145900",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Adobe (ADBE) unveils Adobe Express for Enterprise in a bid to boost its content creation capabilities with generative AI.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2b/4052.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.413057,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ADBE",
+                    "relevance_score": "0.750367",
+                    "ticker_sentiment_score": "0.458309",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.213517",
+                    "ticker_sentiment_score": "0.307623",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DNTUF",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.251909",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.16099",
+                    "ticker_sentiment_score": "0.185782",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Autodesk  ( ADSK )  Acquires Wonder Dynamics for 3D Animation & VFX",
+            "url": "https://www.zacks.com/stock/news/2277349/autodesk-adsk-acquires-wonder-dynamics-for-3d-animation-vfx",
+            "time_published": "20240522T145700",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Autodesk (ADSK) acquires Wonder Dynamics to enable more artists to produce 3D content in the media and entertainment industries.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.420635,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ADBE",
+                    "relevance_score": "0.306963",
+                    "ticker_sentiment_score": "0.418214",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.247838",
+                    "ticker_sentiment_score": "0.284573",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.187221",
+                    "ticker_sentiment_score": "0.208847",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ADSK",
+                    "relevance_score": "0.522622",
+                    "ticker_sentiment_score": "0.642345",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "More than $520,000 raised during Les Printemps du MAC 2024 - A BENEFIT EVENT FOR LA FONDATION DU MAC",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38966212/more-than-520-000-raised-during-les-printemps-du-mac-2024-a-benefit-event-for-la-fondation-du-mac",
+            "time_published": "20240522T144800",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "MONTREAL, May 22, 2024 /CNW/ - Last Friday, over 1,200 individuals from the arts and business world gathered at the iconic Arsenal art contemporain for the 16th Printemps du MAC, themed ICÔNES. Through ticket sales, donations, partners, sponsors, and a silent auction, the event raised over ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.384957,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NTIOF",
+                    "relevance_score": "0.02671",
+                    "ticker_sentiment_score": "0.096699",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.02671",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DASH",
+                    "relevance_score": "0.02671",
+                    "ticker_sentiment_score": "0.104333",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DSSMY",
+                    "relevance_score": "0.02671",
+                    "ticker_sentiment_score": "0.096699",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Amazon's Generative AI Upgrade For Alexa: What Investors Need to Know - Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/news/24/05/38965886/amazons-generative-ai-upgrade-for-alexa-what-investors-need-to-know",
+            "time_published": "20240522T143143",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Amazon.com Inc AMZN is upgrading its decade-old Alexa voice assistant with generative artificial intelligence ( AI ) . The Seattle-based company plans to charge a monthly subscription fee to offset the technology's cost.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/05/22/Amazon-Alexa.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.214043,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.211191",
+                    "ticker_sentiment_score": "0.065991",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.496915",
+                    "ticker_sentiment_score": "0.140163",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.211191",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.312158",
+                    "ticker_sentiment_score": "-0.25338",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.771935",
+                    "ticker_sentiment_score": "0.536631",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Video Streaming Software Market worth $29.7 billion by 2029 - Exclusive Report by MarketsandMarkets™",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38965801/video-streaming-software-market-worth-29-7-billion-by-2029-exclusive-report-by-marketsandmarkets",
+            "time_published": "20240522T143000",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "CHICAGO, May 22, 2024 /PRNewswire/ -- AI-driven personalization, immersive VR/AR experiences, and improved video quality are all expected in the future of video streaming software.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.962106"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.285807,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.01978",
+                    "ticker_sentiment_score": "0.144307",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.01978",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ROKU",
+                    "relevance_score": "0.01978",
+                    "ticker_sentiment_score": "0.223804",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "JWCTF",
+                    "relevance_score": "0.039548",
+                    "ticker_sentiment_score": "0.012446",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EGHSF",
+                    "relevance_score": "0.01978",
+                    "ticker_sentiment_score": "0.011933",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BCOV",
+                    "relevance_score": "0.059292",
+                    "ticker_sentiment_score": "0.03399",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EGIO",
+                    "relevance_score": "0.079",
+                    "ticker_sentiment_score": "0.033432",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.01978",
+                    "ticker_sentiment_score": "0.144307",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VMEO",
+                    "relevance_score": "0.039548",
+                    "ticker_sentiment_score": "0.012446",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KLTR",
+                    "relevance_score": "0.039548",
+                    "ticker_sentiment_score": "0.012446",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Will Nvidia Fill Biggest Piece Of AI Monetization Puzzle With Q1 Earnings? Tech Bull Says 'Party's Just Getting Started With The Popcorn Getting Ready' - NVIDIA  ( NASDAQ:NVDA ) , Global X Robotics & Artificial Intelligence ETF  ( NASDAQ:BOTZ ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/05/38965527/will-nvidia-fill-biggest-piece-of-ai-monetization-puzzle-with-q1-earnings-tech-bull",
+            "time_published": "20240522T141706",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "Ahead of Nvidia Corp.'s NVDA earnings on Wednesday, Wedbush analyst Daniel Ives sounded upbeat about about AI-levered stocks and offered his take on what to expect from the AI stalwart's quarterly report.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/05/22/nvidia-chip-shutter.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.169215,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.300394",
+                    "ticker_sentiment_score": "0.164446",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.227716",
+                    "ticker_sentiment_score": "0.133394",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.152983",
+                    "ticker_sentiment_score": "0.055016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.614697",
+                    "ticker_sentiment_score": "0.253022",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.227716",
+                    "ticker_sentiment_score": "0.160684",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.227716",
+                    "ticker_sentiment_score": "0.102609",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Olympus Corp. of the Americas Celebrates Debut of Endoscopic Explorer Exhibit at New Da Vinci Science Center at PPL Pavilion",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38965380/olympus-corp-of-the-americas-celebrates-debut-of-endoscopic-explorer-exhibit-at-new-da-vinci-scien",
+            "time_published": "20240522T141200",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "Olympus has committed to a 10-year sponsorship of the Endoscopic Explorer Exhibit CENTER VALLEY, Pa., May 22, 2024 /PRNewswire/ -- Olympus Corporation of the Americas is excited to join the community in celebrating the opening of the new Da Vinci Science Center at PPL Pavilion, which will serve ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.291155,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OCPNF",
+                    "relevance_score": "0.220008",
+                    "ticker_sentiment_score": "0.332585",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.044551",
+                    "ticker_sentiment_score": "0.094263",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Cetera Announces New Partners at Wilde Wealth Management",
+            "url": "https://www.prnewswire.com/news-releases/cetera-announces-new-partners-at-wilde-wealth-management-302152921.html",
+            "time_published": "20240522T140300",
+            "authors": [
+                "Cetera Financial Group"
+            ],
+            "summary": "Cetera's minority investment in Wilde Wealth paves the way for expanded ownership opportunities for advisors in $3.4 billion firm",
+            "banner_image": "https://mma.prnewswire.com/media/1989903/Cetera_Logo_Logo.jpg?p=facebook",
+            "source": "PR Newswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.prnewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                }
+            ],
+            "overall_sentiment_score": 0.425646,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PFC",
+                    "relevance_score": "0.104455",
+                    "ticker_sentiment_score": "0.226033",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.05234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.05234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nikon Announces Judging Panel for the 50th Annual Nikon Small World Competition",
+            "url": "https://www.benzinga.com/pressreleases/24/05/n38964906/nikon-announces-judging-panel-for-the-50th-annual-nikon-small-world-competition",
+            "time_published": "20240522T140000",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "Six judges will choose this year's winning microscopy images and videos for the 50th anniversary of the competition.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.235945,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.026213",
+                    "ticker_sentiment_score": "0.149316",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.026213",
+                    "ticker_sentiment_score": "0.094212",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NINOF",
+                    "relevance_score": "0.282234",
+                    "ticker_sentiment_score": "0.349999",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tostitos® and Chef Susur Lee Introduce the Tostitos® Tasting Window",
+            "url": "https://www.newswire.ca/news-releases/tostitos-r-and-chef-susur-lee-introduce-the-tostitos-r-tasting-window-884319617.html",
+            "time_published": "20240522T135400",
+            "authors": [
+                "PepsiCo Foods Canada"
+            ],
+            "summary": "Inspired by the wine windows of Florence, new collaboration aims to show Canadians that Tostitos® tortilla chips are a blank canvas for culinary creativity.",
+            "banner_image": "https://mma.prnewswire.com/media/2419484/PepsiCo_Foods_Canada_Tostitos_%C2%A0and_Chef_Susur_Lee_Introduce_the.jpg?p=facebook",
+            "source": "Canada Newswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.newswire.ca",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.250637,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.040899",
+                    "ticker_sentiment_score": "-0.012621",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.162528",
+                    "ticker_sentiment_score": "0.125018",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}
